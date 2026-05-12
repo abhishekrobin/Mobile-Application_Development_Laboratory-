@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="num1_hint">Number 1</string>
+    <string name="num2_hint">Number 2</string>
+    <string name="result_default">Result</string>
+    <string name="error_invalid_input">Invalid Input</string>
+    <string name="error_divide_by_zero">Cannot divide by zero</string>
+</resources>
