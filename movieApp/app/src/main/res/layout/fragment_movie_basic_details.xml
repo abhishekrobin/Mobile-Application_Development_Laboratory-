@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Movie Basic Details"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Movie Id: 101"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Name: Inception"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Language: English"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Year: 2010"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Category: Sci-Fi"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Duration: 148 mins"/>
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="IMDB Ratings: 8.8"/>
+
+</LinearLayout>
